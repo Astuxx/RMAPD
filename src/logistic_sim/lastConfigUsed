@@ -1,0 +1,11 @@
+[Config]
+map: grid
+nrobots: 4
+algorithm: CFreeAgent
+locmode: AMCL
+navmode: ros
+gwait: 0
+capacity: 3
+term: xterm
+tp: SP_TaskPlanner
+gen: uniform
